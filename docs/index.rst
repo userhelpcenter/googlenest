@@ -11,7 +11,7 @@ Introduction
 
 Google Nest is a smart home platform that allows you to control devices like thermostats, cameras, speakers, and more. To manage your devices and settings, you need to log in to your Google Nest account.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
